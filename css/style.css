@@ -1,0 +1,25 @@
+body {
+    background-color: #000000;
+    color: rgb(255, 255, 255);
+}
+
+.fontg {
+    text-align: center;
+}
+
+.blink {
+    background-color: rgb(110, 12, 202);
+    color: white;
+    padding: 15px;
+    padding-left: 80px;
+    padding-right: 80px;
+    margin: 7px;
+    border: none;
+    border-radius: 15px;
+}
+
+.buttons {
+    text-align: center;
+    margin-top: 10px;
+
+}
