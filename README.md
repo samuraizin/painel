@@ -4,5 +4,5 @@ I'm studying clean code and good programming practices, soon the code will have 
 
 I authorize anyone who wishes to change the code and upload it to their git, free of copyright.
 
-ass: samurai
+by: samurai
 
